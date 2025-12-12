@@ -3,7 +3,9 @@
 **Tugas Individu 3 – PAW**
 
 **Nama**: Alliyah Salsabilla
+
 **NIM**: 123140014
+
 **Kelas**: RB
 
 Aplikasi web untuk menganalisis ulasan produk menggunakan teknologi AI. Backend dibangun menggunakan **Flask**, **SQLAlchemy**, dan model **Hugging Face Transformers** untuk analisis sentimen serta AI model untuk ekstraksi poin penting. Data hasil analisis disimpan dalam **SQLite database**.
@@ -270,4 +272,9 @@ Pastikan folder backend memiliki permission menulis file.
 ---
 
 # Dokumentasi Hasil
+
 1. inputan untuk melakukan pengecekan product review analyzer
+<img width="1919" height="974" alt="Screenshot 2025-12-12 180101" src="https://github.com/user-attachments/assets/13eae596-e9ef-40f3-a6de-e628665162d8" />
+
+2. Recent Reviews
+<img width="1919" height="1053" alt="Screenshot 2025-12-12 175938" src="https://github.com/user-attachments/assets/c425f5cb-8bbb-4d02-9a35-bb21cdf1eb17" />
